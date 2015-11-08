@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DisplayProductName</key>
+	<string>Asus T300LA FHD IPS Display</string>
+	<key>DisplayProductID</key>
+	<integer>1332</integer>
+	<key>DisplayVendorID</key>
+	<integer>9935</integer>
+	<key>scale-resolutions</key>
+	<array>
+		<data>AAAMgAAABwgAAAAB</data>
+		<data>AAAKAAAABaAAAAAB</data>
+		<data>AAAFVgAAAwA=</data>
+		<data>AAAKrAAABgAAAAAB</data>
+		<data>AAAKgAAABegAAAAB</data>
+		<data>AAAFAAAAAwA=</data>
+		<data>AAAKAAAABgAAAAAB</data>
+	</array>
+</dict>
+</plist>
