@@ -1,4 +1,7 @@
 # T300LA-OSX
 Clover UEFI Install for T300LA
-The i3 version T300LA.kext works on 4200u/4500u (only contains dummyHDA)
-DO NOT USE T300LAfor4200U.kext or T300LAfor4500U.kext
+Config.plist for Clover supports 10.9.5 to 10.12.x
+USBXHC_T300LA.kext required for 10.11.x to 10.12.x
+DisplayVendorID-26cf not required but used for custom resolutions including HiDPI
+
+Thanks RehabMan
