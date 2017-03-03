@@ -175,11 +175,35 @@
 				<key>Comment</key>
 				<string>AppleHDA CX20752 Patch</string>
 				<key>Find</key>
-				<data>hBnUEQ==</data>
+				<data>ixnUEQ==</data>
 				<key>Name</key>
 				<string>AppleHDA</string>
 				<key>Replace</key>
 				<data>D1HxFA==</data>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>AppleHDA CX20752 Patch Legacy</string>
+				<key>Find</key>
+				<data>hBnUEQ==</data>
+				<key>MatchOS</key>
+				<string>10.9.5,10.10.5,10.11.6</string>
+				<key>Name</key>
+				<string>AppleHDA</string>
+				<key>Replace</key>
+				<data>D1HxFA==</data>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>Conexant menubar fix (credit wern apfel)</string>
+				<key>Find</key>
+				<data>a3Bzaes=</data>
+				<key>MatchOS</key>
+				<string>10.11.6,10.12.x</string>
+				<key>Name</key>
+				<string>AppleHDA</string>
+				<key>Replace</key>
+				<data>Y2ltaes=</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
