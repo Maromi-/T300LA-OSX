@@ -227,31 +227,37 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
-				<string>Trim Enabler pre-10.10.4</string>
+				<string>Unofficial Trim Enabler</string>
+				<key>Disabled</key>
+				<true/>
 				<key>Find</key>
 				<data>QVBQTEUgU1NE</data>
 				<key>Name</key>
-				<string>disabled:IOAHCIBlockStorage</string>
+				<string>IOAHCIBlockStorage</string>
 				<key>Replace</key>
 				<data>AAAAAAAAAAAA</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
 				<string>XHCI Sleep Fix</string>
+				<key>Disabled</key>
+				<true/>
 				<key>Find</key>
 				<data>xoDIAAAAAQ==</data>
 				<key>Name</key>
-				<string>disabled:AppleUSBXHCI</string>
+				<string>AppleUSBXHCI</string>
 				<key>Replace</key>
 				<data>xoDIAAAAAA==</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
 				<string>0x0a260006 15MB cursor bytes patch</string>
+				<key>Disabled</key>
+				<true/>
 				<key>Find</key>
 				<data>AADwAAAAAEDZCgAA</data>
 				<key>Name</key>
-				<string>disabled:AppleIntelFramebufferAzul</string>
+				<string>AppleIntelFramebufferAzul</string>
 				<key>Replace</key>
 				<data>AADwAAAAAGDZCgAA</data>
 			</dict>
