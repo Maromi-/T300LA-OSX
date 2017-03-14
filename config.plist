@@ -176,6 +176,8 @@
 				<string>AppleHDA CX20752 Patch</string>
 				<key>Find</key>
 				<data>ixnUEQ==</data>
+				<key>MatchOS</key>
+				<string>10.12.x</string>
 				<key>Name</key>
 				<string>AppleHDA</string>
 				<key>Replace</key>
